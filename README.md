@@ -14,3 +14,8 @@ Password: <type your password or personal access token (GitHub)
 
 ### To save to cache
 git config --global credential.helper cache
+
+
+### To remove credentials 
+git config --global --unset credential.helper
+git config --system --unset credential.helper
