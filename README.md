@@ -23,5 +23,9 @@ git config --global credential.helper cache
 git config --global --unset credential.helper
 git config --system --unset credential.helper
 
+### TO get upadate from remote repo to local
+git config --global  pull.ff true 
+
+git pull <remote> <branch>
 
 ### End page
