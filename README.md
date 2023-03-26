@@ -2,7 +2,7 @@
 ### belajar
 
 ### Nyoba lewat pull request
-
+### ini tambahan di branch baru
 ### ini commmit pertama
 ## wah kenapa ini
 ### nyoba nambah tulisan baru nich
@@ -26,6 +26,6 @@ git config --system --unset credential.helper
 ### TO get upadate from remote repo to local
 git config --global  pull.ff true 
 
-git pull <remote> <branch>
+git pull [remote] [branch]
 
 ### End page
