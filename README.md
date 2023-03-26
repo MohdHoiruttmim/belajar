@@ -1,7 +1,7 @@
 ### Belajar GIT
 ### belajar
 
-### Ini branch oalah ternyata ga tampil yak ges yak
+### Nyoba lewat pull request
 
 ### ini commmit pertama
 
