@@ -26,6 +26,9 @@ git config --system --unset credential.helper
 ### TO get upadate from remote repo to local
 git config --global  pull.ff true 
 
+// to update in local
 git pull [remote] [branch]
 
+// to update in repository
+git push
 ### End page
