@@ -1,7 +1,7 @@
 ### Belajar GIT
 ### belajar
 
-### Ini branch baru
+### Nyoba lewat pull request
 
 ### ini commmit pertama
 ## wah kenapa ini
